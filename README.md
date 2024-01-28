@@ -1,7 +1,7 @@
 # SupplyChainAnalysis
 ![Logo](https://github.com/JerylLee/SupplyChainAnalysis/blob/main/Screenshot%202024-01-27%20at%203.43.01%20PM.png?raw=true)
 
-**Location Wise Product
+**Location Wise Product**
 
 Kolkata:
 
@@ -12,11 +12,11 @@ Solution:
 
 Capitalize on the high demand for skincare products by expanding the range of skincare offerings and promoting them through targeted marketing campaigns.
 
-Product Availability
+**Product Availability**
 
 The consistent availability of skincare products across all locations highlights the widespread popularity and demand for skincare in the market.
 
-Recommendations:
+- Recommendations:
 
 Product Expansion: Given the high demand for skincare products, retailers and brands should consider expanding their skincare product offerings to cater to different skin types, concerns, and preferences.
 
@@ -27,7 +27,7 @@ Strategic Partnerships: Collaborate with skincare experts, dermatologists, and i
 Distribution Channels: Ensure skincare products are readily available across various distribution channels, including online platforms, retail stores, and specialty outlets, to reach a wider audience and maximize sales potential.
 
 
-Defect Rates Analysis
+**Defect Rates Analysis**
 
 Road transportation has the highest defect rate compared to other modes.
 
