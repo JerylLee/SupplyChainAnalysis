@@ -3,12 +3,12 @@
 
 **Location Wise Product**
 
-Kolkata:
+- Kolkata
 
 Skincare products have the highest sales volume, indicating a strong demand for skincare in this region.
 Cosmetics and haircare products also have significant sales but are slightly lower compared to skincare.
 
-Solution:
+- Solution
 
 Capitalize on the high demand for skincare products by expanding the range of skincare offerings and promoting them through targeted marketing campaigns.
 
@@ -18,21 +18,22 @@ The consistent availability of skincare products across all locations highlights
 
 - Recommendations:
 
-Product Expansion: Given the high demand for skincare products, retailers and brands should consider expanding their skincare product offerings to cater to different skin types, concerns, and preferences.
+- Product Expansion: Given the high demand for skincare products, retailers and brands should consider expanding their skincare product offerings to cater to different skin types, concerns, and preferences.
 
-Marketing Emphasis: Allocate marketing resources to highlight skincare products, emphasizing their benefits, ingredients, and effectiveness to attract and retain customers.
+- Marketing Emphasis: Allocate marketing resources to highlight skincare products, emphasizing their benefits, ingredients, and effectiveness to attract and retain customers.
 
-Strategic Partnerships: Collaborate with skincare experts, dermatologists, and influencers to endorse skincare products and build credibility and trust among consumers.
+- Strategic Partnerships: Collaborate with skincare experts, dermatologists, and influencers to endorse skincare products and build credibility and trust among consumers.
 
-Distribution Channels: Ensure skincare products are readily available across various distribution channels, including online platforms, retail stores, and specialty outlets, to reach a wider audience and maximize sales potential.
+- Distribution Channels: Ensure skincare products are readily available across various distribution channels, including online platforms, retail stores, and specialty outlets, to reach a wider audience and maximize sales potential.
 
 
 **Defect Rates Analysis**
 
-Road transportation has the highest defect rate compared to other modes.
+- Road transportation has the highest defect rate compared to other modes.
 
-Road Transportation:
 
-Skincare products may be particularly susceptible to defects during road transportation due to their fragile nature and sensitivity to temperature and environmental conditions.
-Common defects associated with road transportation of skincare products may include product breakage, leakage, contamination, and degradation of quality.
-Temperature fluctuations during transit, rough handling, and prolonged delivery times on the road can exacerbate these defects.
+- Skincare products may be particularly susceptible to defects during road transportation due to their fragile nature and sensitivity to temperature and environmental conditions.
+
+- Common defects associated with road transportation of skincare products may include product breakage, leakage, contamination, and degradation of quality.
+
+- Temperature fluctuations during transit, rough handling, and prolonged delivery times on the road can exacerbate these defects.
